@@ -10,8 +10,7 @@ Aqui se encuentra el codigo base (nos basamos en este) (https://www.sanfoundry.c
 Mira Deployment para conocer como desplegar el proyecto.
 
 Pre-requisitos
-
-	Para instalar en la linea de comando preparamos:
+Para instalar en la linea de comando preparamos:
 	
 	apt-get update
 
