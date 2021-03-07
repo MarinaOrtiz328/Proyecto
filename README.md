@@ -11,19 +11,22 @@ Mira Deployment para conocer como desplegar el proyecto.
 
 Pre-requisitos
 
-Para instalar en la linea de comando preparamos:
+	Para instalar en la linea de comando preparamos:
+	
 	apt-get update
 
 
 Instalación
 
 Para instalar build essential para C y C ++:
-	  apt-get update && apt-get install build-essential
+	
+	 apt-get install build-essential
 
 
 Ejecutando las prubas
 
 Para compilar el .C en la linea de comando en la carpeta donde tenemos guardado el archivo:
+	
 	gcc <nombredelarchivo.C> -o <nombredelarchivo>
 
 
@@ -35,6 +38,7 @@ Con esto comprobamos que no hay errores de compilacion y que el programa se comp
 Despliegue 
 
 Para ejecutar listar archivos:
+	
 	./<nombredearchivo>
 
 Construido con
